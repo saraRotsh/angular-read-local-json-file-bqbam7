@@ -1,0 +1,1532 @@
+{
+    "employees": 
+    [
+      {
+          "startDateTime": "11/25/2021 8:00:00 AM",
+          "endDateTime": "11/25/2021 2:45:00 PM",
+          "startDateTimeTemp": "2021-11-25T08:00:00",
+          "endDateTimeTemp": "2021-11-25T14:45:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 15,
+          "actualNumberOfVisitors": 15,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "c02ad647-4c6b-e911-80ec-00505691117e",
+              "value": "פעילות הדרכה עד 6 שעות"
+          },
+          "reservation": {
+              "id": "9cb33584-ba4e-ed11-811f-00505691117e",
+              "value": "SCB-0000001"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "9fb33584-ba4e-ed11-811f-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 880,
+          "totalPriceAfterDiscount": 880,
+          "institution": {
+              "id": "f88e7c43-e5be-ea11-80ff-00505691117e",
+              "value": "שרות בתי הסוהר"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "08-9775718",
+          "reservationNum": "SCB-0071622",
+          "groupName": "יום עיון קצינות חינוך ניצחון הרוח ",
+          "language": {
+              "id": "892bcd83-511e-e011-b70e-e61f1359af9b",
+              "value": "עברית"
+          },
+          "reservationStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "paymentStatus": {
+              "id": "",
+              "value": ""
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "1",
+              "value": "בי\"ס"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "אפרת  מזרחי ",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "9fb33584-ba4e-ed11-811f-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 3:00:00 PM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T15:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 5,
+          "numberOfVisitors": 153,
+          "actualNumberOfVisitors": 153,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "c02ad647-4c6b-e911-80ec-00505691117e",
+              "value": "פעילות הדרכה עד 6 שעות"
+          },
+          "reservation": {
+              "id": "baf98cd1-acfa-ec11-811a-00505691117e",
+              "value": "SCH-0000002"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "bdf98cd1-acfa-ec11-811a-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 4600,
+          "totalPriceAfterDiscount": 3500,
+          "institution": {
+              "id": "ec8c7c43-e5be-ea11-80ff-00505691117e",
+              "value": "תיכון אהל שם"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "03-7523242",
+          "reservationNum": "SCH-0048233",
+          "groupName": "no-name",
+          "language": {
+              "id": "892bcd83-511e-e011-b70e-e61f1359af9b",
+              "value": "עברית"
+          },
+          "reservationStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "paymentStatus": {
+              "id": "13",
+              "value": "הופק חשבון"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "1",
+              "value": "בי\"ס"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "ענת לסקר",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "bdf98cd1-acfa-ec11-811a-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 15,
+          "actualNumberOfVisitors": 15,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "4bdb1afc-2000-ed11-811a-00505691117e",
+              "value": "RSV-0000003"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "4edb1afc-2000-ed11-811a-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 650,
+          "totalPriceAfterDiscount": 650,
+          "institution": {
+              "id": "625901d2-e70d-eb11-8105-00505691117e",
+              "value": "GCT"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0049971",
+          "groupName": "ISR 1111",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "11",
+              "value": "התקבל וואוצ'ר"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "מירב סגל",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "4edb1afc-2000-ed11-811a-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 30,
+          "actualNumberOfVisitors": 30,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "76c8e0d6-5403-ed11-811a-00505691117e",
+              "value": "RSV-0000004"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "79c8e0d6-5403-ed11-811a-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": {
+              "id": "9e5701d2-e70d-eb11-8105-00505691117e",
+              "value": "הולידיי טרבל"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "39350061",
+          "reservationNum": "RSV-0051245",
+          "groupName": "Tui Holland",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "Walter Slutzky",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "79c8e0d6-5403-ed11-811a-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 11:15:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T11:15:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 1,
+          "actualNumberOfVisitors": 1,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "2a2954e0-9e59-e711-8b78-005056b11ef4",
+              "value": "השכרת הדרכה קולית (ביקור במוזיאון לתולדות השואה)"
+          },
+          "reservation": {
+              "id": "1975040d-ae4e-ed11-811f-00505691117e",
+              "value": "RSV-0000005"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "1c75040d-ae4e-ed11-811f-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 30,
+          "totalPriceAfterDiscount": 30,
+          "institution": {
+              "id": "05ab1b39-8bdc-eb11-810f-00505691117e",
+              "value": "טריפאדוויזר"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0071595",
+          "groupName": "seck modou 46405P5 ",
+          "language": {
+              "id": "b688677a-511e-e011-b70e-e61f1359af9b",
+              "value": "אנגלית"
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "1",
+              "value": "שולם"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "seck  modou ",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "1c75040d-ae4e-ed11-811f-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 3:00:00 PM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T15:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 2,
+          "numberOfVisitors": 56,
+          "actualNumberOfVisitors": 56,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "c02ad647-4c6b-e911-80ec-00505691117e",
+              "value": "פעילות הדרכה עד 6 שעות"
+          },
+          "reservation": {
+              "id": "a7657524-8153-ed11-8120-00505691117e",
+              "value": "SCH-0000006"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "aa657524-8153-ed11-8120-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 1600,
+          "totalPriceAfterDiscount": 1200,
+          "institution": {
+              "id": "c08b7c43-e5be-ea11-80ff-00505691117e",
+              "value": "סמינר ב.יעקב תל ציון"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "02-5700387",
+          "reservationNum": "SCH-0072912",
+          "groupName": "סמינר תל ציון",
+          "language": {
+              "id": "892bcd83-511e-e011-b70e-e61f1359af9b",
+              "value": "עברית"
+          },
+          "reservationStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "paymentStatus": {
+              "id": "2",
+              "value": "טרם שולם"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "1",
+              "value": "בי\"ס"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "רוחמי וולק",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "aa657524-8153-ed11-8120-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 3:00:00 PM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T15:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 3,
+          "numberOfVisitors": 68,
+          "actualNumberOfVisitors": 68,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "c02ad647-4c6b-e911-80ec-00505691117e",
+              "value": "פעילות הדרכה עד 6 שעות"
+          },
+          "reservation": {
+              "id": "d22ed9f0-d955-ed11-8121-00505691117e",
+              "value": "SCH-0000007"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "d52ed9f0-d955-ed11-8121-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 3000,
+          "totalPriceAfterDiscount": 1460,
+          "institution": {
+              "id": "92867c43-e5be-ea11-80ff-00505691117e",
+              "value": "חקלאי נחלת יהודה"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "03-9569756",
+          "reservationNum": "SCH-0073634",
+          "groupName": "ויצ\"ו נחלת יהודה ראשון לציון",
+          "language": {
+              "id": "892bcd83-511e-e011-b70e-e61f1359af9b",
+              "value": "עברית"
+          },
+          "reservationStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "paymentStatus": {
+              "id": "13",
+              "value": "הופק חשבון"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "1",
+              "value": "בי\"ס"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "אלי בר דוד",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "d52ed9f0-d955-ed11-8121-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 2,
+          "actualNumberOfVisitors": 2,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "fa2a360f-7258-ed11-8121-00505691117e",
+              "value": "RSV-0000008"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "fd2a360f-7258-ed11-8121-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 32,
+          "totalPriceAfterDiscount": 32,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0074126",
+          "groupName": "Erica Harriton",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "1",
+              "value": "שולם"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "יוסף פרידמן",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "fd2a360f-7258-ed11-8121-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 34,
+          "actualNumberOfVisitors": 34,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "1ddc2398-a65b-ed11-8121-00505691117e",
+              "value": "RSV-0000009"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "20dc2398-a65b-ed11-8121-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0074994",
+          "groupName": "JUDSON 3 ",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "MOSHE  GOEL ",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "20dc2398-a65b-ed11-8121-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 6,
+          "actualNumberOfVisitors": 6,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "d48664c7-db5b-ed11-8121-00505691117e",
+              "value": "RSV-0000010"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "d78664c7-db5b-ed11-8121-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0075015",
+          "groupName": "Maria",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "Maria Dolores Dayer Jimenez",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "d78664c7-db5b-ed11-8121-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 4,
+          "actualNumberOfVisitors": 4,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "ec8806ca-9f59-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור באתר יד ושם (ללא כניסה למוזיאון)"
+          },
+          "reservation": {
+              "id": "8cab900f-b45d-ed11-8121-00505691117e",
+              "value": "RSV-0000011"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "8fab900f-b45d-ed11-8121-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0075265",
+          "groupName": "ARRII",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "ARRII PAUL FRANCOIS",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "8fab900f-b45d-ed11-8121-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:00:00 AM",
+          "endDateTime": "11/25/2021 10:00:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:00:00",
+          "endDateTimeTemp": "2021-11-25T10:00:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 2,
+          "actualNumberOfVisitors": 2,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "ec8806ca-9f59-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור באתר יד ושם (ללא כניסה למוזיאון)"
+          },
+          "reservation": {
+              "id": "a882a5ae-bb68-ed11-8122-00505691117e",
+              "value": "RSV-0000012"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "ab82a5ae-bb68-ed11-8122-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0078379",
+          "groupName": "Deborah Winton",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "Deborah Winton",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "ab82a5ae-bb68-ed11-8122-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:10:00 AM",
+          "endDateTime": "11/25/2021 12:10:00 PM",
+          "startDateTimeTemp": "2021-11-25T09:10:00",
+          "endDateTimeTemp": "2021-11-25T12:10:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 15,
+          "actualNumberOfVisitors": 15,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "2ca0b353-4c6b-e911-80ec-00505691117e",
+              "value": "פעילות הדרכה עד 3 שעות"
+          },
+          "reservation": {
+              "id": "f8daf317-0208-ed11-811a-00505691117e",
+              "value": "SCH-0000013"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "fbdaf317-0208-ed11-811a-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 620,
+          "totalPriceAfterDiscount": 620,
+          "institution": {
+              "id": "c0907c43-e5be-ea11-80ff-00505691117e",
+              "value": "גו אינספייר"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "02-6271718",
+          "reservationNum": "SCH-0052772",
+          "groupName": "Berman Track3",
+          "language": {
+              "id": "b688677a-511e-e011-b70e-e61f1359af9b",
+              "value": "אנגלית"
+          },
+          "reservationStatus": {
+              "id": "4",
+              "value": "ממתין לשיבוץ"
+          },
+          "paymentStatus": {
+              "id": "",
+              "value": ""
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "1",
+              "value": "בי\"ס"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "Yael   Spitzer",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "fbdaf317-0208-ed11-811a-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:10:00 AM",
+          "endDateTime": "11/25/2021 10:10:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:10:00",
+          "endDateTimeTemp": "2021-11-25T10:10:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 9,
+          "actualNumberOfVisitors": 9,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "81d1c792-9218-ed11-811b-00505691117e",
+              "value": "RSV-0000014"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "84d1c792-9218-ed11-811b-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": null,
+          "institutionIsHaredi": false,
+          "institutionTelephone": "",
+          "reservationNum": "RSV-0058674",
+          "groupName": "EZRA",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "ORNA FUCHS",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "84d1c792-9218-ed11-811b-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      },
+      {
+          "startDateTime": "11/25/2021 9:10:00 AM",
+          "endDateTime": "11/25/2021 10:10:00 AM",
+          "startDateTimeTemp": "2021-11-25T09:10:00",
+          "endDateTimeTemp": "2021-11-25T10:10:00",
+          "internalComments": null,
+          "yvComments": null,
+          "eventComments": null,
+          "numberOfGroups": 1,
+          "numberOfVisitors": 45,
+          "actualNumberOfVisitors": 45,
+          "activityDayNumberOfVisitors": 0,
+          "activityDayActualNumberOfVisitors": 0,
+          "numOfHeadsets": 0,
+          "numOfAudioGuides": 0,
+          "numOfServiceProvidersScheduled": 0,
+          "numOfServiceProvidersNeeded": 0,
+          "telephone": "",
+          "email": null,
+          "activityDayStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "location": {
+              "id": "2347c5ae-f818-eb11-8106-00505691117e",
+              "value": "יד ושם"
+          },
+          "activityDayType": {
+              "id": "5ce88c56-485b-e711-8b78-005056b11ef4",
+              "value": "תיאום ביקור במוזיאון לתולדות השואה ובאתר יד ושם"
+          },
+          "reservation": {
+              "id": "bbbe55ea-b347-ed11-811f-00505691117e",
+              "value": "RSV-0000015"
+          },
+          "eventReservation": {
+              "id": null,
+              "value": null
+          },
+          "budgetFramework": null,
+          "department": null,
+          "activityDay": {
+              "id": "bebe55ea-b347-ed11-811f-00505691117e",
+              "value": ""
+          },
+          "totalPrice": 0,
+          "totalPriceAfterDiscount": 0,
+          "institution": {
+              "id": "265801d2-e70d-eb11-8105-00505691117e",
+              "value": "שר-אל"
+          },
+          "institutionIsHaredi": false,
+          "institutionTelephone": "25337005",
+          "reservationNum": "RSV-0070430",
+          "groupName": "Omega Tours ",
+          "language": {
+              "id": "",
+              "value": ""
+          },
+          "reservationStatus": {
+              "id": "2",
+              "value": "סיום טיפול"
+          },
+          "paymentStatus": {
+              "id": "7",
+              "value": "שמירת מקום - אין צורך בתשלום"
+          },
+          "responsibleDivision": null,
+          "responsibleAgent": null,
+          "divisionRouter": {
+              "id": "2",
+              "value": "הנצחה"
+          },
+          "isOrderConfirmed": false,
+          "isSentEmailConfirmation": false,
+          "didGroupArrive": true,
+          "fullNameContact": "Hadassah Berne",
+          "fullNameCoordinator": null,
+          "eventItemId": null,
+          "museumEventItemList": [],
+          "bidItem": [],
+          "itineraryGroupList": [],
+          "resourceEventItem": null,
+          "serviceProviderList": [],
+          "schedulerServiceProvider": null,
+          "schedulerResource": null,
+          "groupCountry": null,
+          "eventType": null,
+          "eventCode": null,
+          "title": null,
+          "numOfCantorsScheduled": 0,
+          "isIncludeCeremony": false,
+          "isVisitorVip": false,
+          "visitorName": null,
+          "visitorRole": null,
+          "visitorPresent": null,
+          "id": "bebe55ea-b347-ed11-811f-00505691117e",
+          "isDeleted": false,
+          "isDirty": false,
+          "isCanceled": false,
+          "isActive": false,
+          "createdOn": null
+      }
+  ]
+}
